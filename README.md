@@ -63,11 +63,10 @@ Institute of Mathematics and Computer Science (IMCS), University of Sindh, Jamsh
 
 I'm open to internships, collaborations and conversations about AI and machine learning.
 
-<!-- PLACEHOLDER: replace YOUR-LINKEDIN-HANDLE below with your real LinkedIn profile handle before publishing -->
 <p>
   <a href="mailto:kishormenghwar4120@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email: kishormenghwar4120@gmail.com" height="40"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn profile" height="40"></a>
+  <a href="https://www.linkedin.com/in/kishor-kumar-40a120315/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn profile" height="40"></a>
 </p>
 
-**Email:** [kishormenghwar4120@gmail.com](mailto:kishormenghwar4120@gmail.com) &nbsp;·&nbsp; **LinkedIn:** [YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+**Email:** [kishormenghwar4120@gmail.com](mailto:kishormenghwar4120@gmail.com) &nbsp;·&nbsp; **LinkedIn:** [kishor-kumar-40a120315](https://www.linkedin.com/in/kishor-kumar-40a120315/)
