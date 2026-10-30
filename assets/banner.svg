@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kishor Kumar, Aspiring Machine Learning Engineer</title>
+  <desc id="desc">Dark banner with Kishor Kumar's name, the subtitle Aspiring Machine Learning Engineer, and a neural-network diagram in sky blue and cyan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060B18"/>
+      <stop offset="1" stop-color="#0B1A2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E3A5F" stroke-opacity="0.35" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <!-- Neural network motif: 3-3-2 layers -->
+  <g stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.5">
+    <path d="M850 90L970 70M850 90L970 160M850 90L970 250M850 160L970 70M850 160L970 160M850 160L970 250M850 230L970 70M850 230L970 160M850 230L970 250"/>
+    <path d="M970 70L1090 120M970 70L1090 200M970 160L1090 120M970 160L1090 200M970 250L1090 120M970 250L1090 200"/>
+  </g>
+  <g fill="#0B1A2E" stroke="url(#accent)" stroke-width="3">
+    <circle cx="850" cy="90" r="11"/><circle cx="850" cy="160" r="11"/><circle cx="850" cy="230" r="11"/>
+    <circle cx="970" cy="70" r="11"/><circle cx="970" cy="160" r="11"/><circle cx="970" cy="250" r="11"/>
+    <circle cx="1090" cy="120" r="11"/><circle cx="1090" cy="200" r="11"/>
+  </g>
+  <g fill="#22D3EE"><circle cx="970" cy="160" r="4.5"/><circle cx="1090" cy="120" r="4.5"/></g>
+
+  <!-- Text: sized to stay legible when GitHub scales the banner down on mobile -->
+  <g font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="70" y="168" fill="#F1F5F9" font-size="76" font-weight="700">Kishor Kumar</text>
+    <rect x="72" y="192" width="88" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="70" y="246" fill="#7DD3FC" font-size="34" font-weight="600">Aspiring Machine Learning Engineer</text>
+  </g>
+</svg>
